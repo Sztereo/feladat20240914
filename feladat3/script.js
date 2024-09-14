@@ -22,3 +22,5 @@ xhr.onreadystatechange = function(){
     }
 };
 xhr.send(null);
+
+// ez egy komment
